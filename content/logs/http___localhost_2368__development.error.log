@@ -1,0 +1,2 @@
+{"name":"Log","hostname":"MacBook-Air-de-Goubert.local","pid":6908,"level":50,"version":"6.0.0","msg":"Could not get webhook secret for ActivityPub FetchError: invalid json response body at http://localhost:2368/.ghost/activitypub/v1/site/ reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","time":"2025-08-05T02:52:01.556Z","v":0}
+{"name":"Log","hostname":"MacBook-Air-de-Goubert.local","pid":6908,"level":50,"version":"6.0.0","msg":"No webhook secret found - cannot initialise","time":"2025-08-05T02:52:01.556Z","v":0}
